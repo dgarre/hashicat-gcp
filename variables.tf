@@ -14,12 +14,12 @@ variable "prefix" {
 }
 
 variable "region" {
-  description = "The region where the resources are created."
+  description = "The region where the resources are created1."
   default     = "us-central1"
 }
 
 variable "zone" {
-  description = "The zone where the resources are created."
+  description = "The zone where the resources are created1."
   default     = "us-central1-b"
 }
 
